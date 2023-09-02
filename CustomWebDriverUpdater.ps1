@@ -15,7 +15,7 @@ __________                __                              .___       _________  
 
 ###########################
 #Author: Joe Agler
-#Purpose: Add backwards compatibility (pre v13.1) for CyberArk WebDriverUpdater tool
+#Purpose: Add backwards compatibility (pre v13.2) for CyberArk WebDriverUpdater tool
 #Github URL: https://github.com/aglerj/CyberArk-WebDriverUpdater-BackwardsCompatibility
 
 #KeyVault Solutions
