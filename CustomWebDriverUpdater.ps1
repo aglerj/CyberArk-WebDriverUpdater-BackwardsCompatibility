@@ -29,7 +29,7 @@ __________                __                              .___       _________  
 # Set the paths to the driver executables and the script to run
 $chromeDriverPath = "C:\Path\To\chromedriver.exe" # Default is C:\Program Files (x86)\CyberArk\PSM\Components\chromedriver.exe
 $edgeDriverPath = "C:\Path\To\msedgedriver.exe" # Default is C:\Program Files (x86)\CyberArk\PSM\Components\msedgedriver.exe
-$appLockerScriptPath = "C:\Path\To\PSMConfigureAppLocker.ps1"
+$appLockerScriptPath = "C:\Path\To\PSMConfigureAppLocker.ps1" # Default is C:\Program Files (x86)\CyberArk\PSM\Hardening\PSMConfigureAppLocker.ps1
 
 # Set the formatted date and time for the log file name
 $logFileName = "WebDriverUpdaterTool" + $currentDateTime.ToString("MMddyyyy_HHmm") + "_driver_check.log"
