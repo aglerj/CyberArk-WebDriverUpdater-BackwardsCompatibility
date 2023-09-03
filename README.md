@@ -13,6 +13,7 @@
 
 #Check out https://www.keyvaultsolutions.com 
 
+#Medium post - https://medium.com/@aglerj/adding-cyberark-webdriver-updater-tool-backwards-compatibility-fa2011321d67
 
 #Credit: Builds upon CyberArk Marketplace WebDriverUpdater tool - https://cyberark-customers.force.com/mplace/s/#a35Ht000000rjXlIAI-a39Ht000001kceVIAQ
 
